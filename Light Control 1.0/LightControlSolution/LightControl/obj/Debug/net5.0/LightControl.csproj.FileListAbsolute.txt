@@ -1,0 +1,16 @@
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.exe
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.deps.json
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.runtimeconfig.json
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.runtimeconfig.dev.json
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.dll
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\bin\Debug\net5.0\LightControl.pdb
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.AssemblyInfoInputs.cache
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.AssemblyInfo.cs
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.dll
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\refint\LightControl.dll
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.pdb
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\LightControl.genruntimeconfig.cache
+C:\Users\André\Desktop\Light Control 1.0\LightControlSolution\LightControl\obj\Debug\net5.0\ref\LightControl.dll

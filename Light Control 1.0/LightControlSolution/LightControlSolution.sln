@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightControlConsoleApp", "LightControl\LightControlConsoleApp.csproj", "{7BFE0322-F51D-4680-B6C6-B4BE2776EA48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightControl.Domain", "LightControl.Domain\LightControl.Domain.csproj", "{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightControl.Infra.Data", "LightControl.Infra.Data\LightControl.Infra.Data.csproj", "{9D73B7B8-ADCC-42C0-A909-138852C3FE51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Business Layer", "2.Business Layer", "{1CA801A2-B877-4DB3-B87E-98647ECFC8B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Data Acess Layer", "3.Data Acess Layer", "{F4D954C2-CB62-4515-BAE8-012D9D116B67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation Layer", "1.Presentation Layer", "{A7908420-0C67-438A-9B02-1A740F205A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFE0322-F51D-4680-B6C6-B4BE2776EA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFE0322-F51D-4680-B6C6-B4BE2776EA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFE0322-F51D-4680-B6C6-B4BE2776EA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFE0322-F51D-4680-B6C6-B4BE2776EA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D73B7B8-ADCC-42C0-A909-138852C3FE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D73B7B8-ADCC-42C0-A909-138852C3FE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D73B7B8-ADCC-42C0-A909-138852C3FE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D73B7B8-ADCC-42C0-A909-138852C3FE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BFE0322-F51D-4680-B6C6-B4BE2776EA48} = {A7908420-0C67-438A-9B02-1A740F205A67}
+		{35190CF1-AEED-420D-9FDE-3CF6C5EA7D27} = {1CA801A2-B877-4DB3-B87E-98647ECFC8B6}
+		{9D73B7B8-ADCC-42C0-A909-138852C3FE51} = {F4D954C2-CB62-4515-BAE8-012D9D116B67}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA7FF4A-C46C-49A6-A828-D971E400E3B5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\bin\Debug\net5.0\LightControl.Infra.Data.deps.json
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\bin\Debug\net5.0\LightControl.Infra.Data.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\bin\Debug\net5.0\LightControl.Infra.Data.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\bin\Debug\net5.0\LightControl.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\bin\Debug\net5.0\LightControl.Domain.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.AssemblyInfo.cs
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.csproj.CopyComplete
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\refint\LightControl.Infra.Data.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\LightControl.Infra.Data.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Infra.Data\obj\Debug\net5.0\ref\LightControl.Infra.Data.dll

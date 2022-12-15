@@ -1,0 +1,12 @@
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\bin\Debug\net5.0\LightControl.Domain.deps.json
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\bin\Debug\net5.0\LightControl.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\bin\Debug\net5.0\LightControl.Domain.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.AssemblyInfo.cs
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\refint\LightControl.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\LightControl.Domain.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Light Control 1.0\LightControlSolution\LightControl.Domain\obj\Debug\net5.0\ref\LightControl.Domain.dll
